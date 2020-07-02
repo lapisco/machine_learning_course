@@ -1,2 +1,2 @@
-# machine_learning_course
+# Machine Learning course
 Repository containing all code examples
