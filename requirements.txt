@@ -5,3 +5,4 @@ scipy
 notebook
 opencv-python
 pandas
+ipykernel
